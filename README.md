@@ -22,4 +22,7 @@ To get started with J.A.T.E, clone the repository and run ```npm install``` to i
 
 # Deployment 
 
-[Link]()
+[Link](https://jate-pwa-bako.herokuapp.com/)
+
+# Screenshot
+![Screenshot 2023-02-26 142814](https://user-images.githubusercontent.com/112914389/221438487-97c82fe4-b450-4a66-9a24-cd34a4b6dc4c.jpg)
